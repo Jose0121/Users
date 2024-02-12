@@ -1,0 +1,37 @@
+.userTable{
+    
+   width: 100%;
+    
+}
+td, th{
+    text-align: left;
+    height: 50px;
+    border-bottom: 1px solid #B6D0E2;
+    
+}
+th{
+    background-color: #0047AB;
+    color: white;
+}
+tr:hover{
+    background-color: #B6D0E2;
+    
+}
+
+.avatar{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.userInfocss{
+    display: none;
+    
+    width: 100%;
+}
+.nameBtn{
+    border: white;
+    width: 100px;
+    height: 20px;
+    background: white;
+}
